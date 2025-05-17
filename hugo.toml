@@ -3,6 +3,10 @@ languageCode = 'en-gb'
 title = '0xto'
 theme = 'hugo-book'
 
+[caches]
+  [caches.images]
+    dir = ':cacheDir/images'
+
 [menu]
 
 [[menu.after]]
