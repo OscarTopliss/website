@@ -1,0 +1,25 @@
+baseURL = 'https://0xto.com/'
+languageCode = 'en-gb'
+title = '0xto'
+theme = 'hugo-book'
+
+[menu]
+
+[[menu.after]]
+name = "Github"
+url = "https://github.com/OscarTopliss"
+weight = 1
+
+[[menu.after]]
+name = "LinkedIn"
+url = "https://www.linkedin.com/in/oscar-topliss/"
+weight = 2
+
+[[menu.after]]
+name = "HackTheBox"
+url = "https://app.hackthebox.com/profile/2132831"
+weight = 3
+
+[params]
+    BookTheme = 'auto'
+    BookSection = '*'
