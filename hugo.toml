@@ -27,3 +27,4 @@ weight = 3
 [params]
     BookTheme = 'auto'
     BookSection = '*'
+
