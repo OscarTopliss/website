@@ -21,7 +21,7 @@ cryptographic systems.
 
 ## Experience
 ---
-### **Warwick CyberSoc** | _2025-present_
+### **Warwick CyberSoc** | _2025 - present_
 I'm currently the **Vice President** of
 **[Warwick Cyber Security Society](https://warwickcybersoc.com)**.
 
@@ -42,7 +42,7 @@ Engineering** team in London.
 
 Each day I shadowed a different member of the team, and got to understand a 
 bit more about the kinds of work which go into architecture consultancy.
-During this time I was given a number of tasks related to the consultancy
+During the week I was given a number of tasks related to the consultancy
 projects the team was completing at the time.
 
 Whenever I had free time I'd go and speak to members of as many other security
