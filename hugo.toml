@@ -10,7 +10,7 @@ theme = 'hugo-book'
 [menu]
 
 [[menu.after]]
-name = "Github"
+name = "GitHub"
 url = "https://github.com/OscarTopliss"
 weight = 1
 
