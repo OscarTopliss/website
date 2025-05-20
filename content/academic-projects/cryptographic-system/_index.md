@@ -1,3 +1,7 @@
+---
+title: "Cryptographic System"
+weight: 2
+---
 # Cryptographic System
 As part of my second-year cryptography module, I created an emulated stock
 investment platform:
