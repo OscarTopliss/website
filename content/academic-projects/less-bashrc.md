@@ -1,8 +1,13 @@
 ---
 title: "Linux Virtual Filesystem Report"
+weight: 1
 ---
 # Operating Systems Coursework
-I completed this report as part of my first year Operating Systems module.
+I completed this report as part of my first year **Operating Systems** module:
+
+{{<button href="/academic-reports/Oscar-Topliss-less-bashrc-coursework.pdf/">}}
+Download Report
+{{</button>}}
 
 It was an analysis of what actually happens when a user enters the following
 into a terminal:
@@ -10,19 +15,20 @@ into a terminal:
 less .bashrc
 ```
 
-Most of my report focuses on the Linux virtual file system, and how files are
-handled both as part of the filesystem as a whole, and on a per-process basis
-when a process needs access to the file. The rest of the report covers some
-basic operating system concepts, including process memory isolation and
-syscalls.
+My research/report focused on the **Linux Virtual Filesystem**, and included the
+following:
 
-I hugely enjoyed this coursework, Operating Systems and Linux espeically
-fascinate me, and I really enjoyed learning a lot more about Linux's inner
-workings. The Linux Virtual File System in particular is an incredibly
-interesting peice of software, and one I hope to explore more in the future.
+- Components of the VFS, including **superblocks**, **inodes**, **dentry
+objects** and **file objects**.
+- How **paths**, e.g. `./.bashrc`, are resolved using `link_path_walk()`.
+- How **files** are represented and handled on a **per-process** basis,
+including opening, reading from, and closing files.
+- The basics of **Memory isolation** on Linux-based systems.
+- How **paging** works on Linux-based systems, including retrieving pages from
+secondary storage.
+- How processes are spawned from the command line using variations of `fork()`.
+- The basics of **user mode** and **kernal mode** execution, including the use
+of **syscalls** and **traps** to execute kernel-level operations from a user
+mode process.
 
 I achieved a grade of **81%** for this coursework.
-
-{{<button href="/academic-reports/Oscar-Topliss-less-bashrc-coursework.pdf/">}}
-Download Report
-{{</button>}}
