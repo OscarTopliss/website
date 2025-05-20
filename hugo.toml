@@ -1,4 +1,4 @@
-baseURL = 'https://0xto.com/'
+baseURL = 'https://0xto.com'
 languageCode = 'en-gb'
 title = '0xto'
 theme = 'hugo-book'
@@ -27,4 +27,3 @@ weight = 3
 [params]
     BookTheme = 'auto'
     BookSection = '*'
-
