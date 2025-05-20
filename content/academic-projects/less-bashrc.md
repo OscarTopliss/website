@@ -5,9 +5,9 @@ weight: 1
 # Operating Systems Coursework
 I completed this report as part of my first year **Operating Systems** module:
 
-{{<button href="/academic-reports/Oscar-Topliss-less-bashrc-coursework.pdf/">}}
+<!-- {{<button href="/academic-reports/Oscar-Topliss-less-bashrc-coursework.pdf/">}}
 Download Report
-{{</button>}}
+{{</button>}} -->
 
 It was an analysis of what actually happens when a user enters the following
 into a terminal:
