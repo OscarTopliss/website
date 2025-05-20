@@ -14,5 +14,3 @@ with a particular love for **reverse engineering**, **programming**, and **crypt
 For a bit more about who I am and what I do, see **[About Me](about-me/)**
 
 I'm happy to provide **references** and a **CV** on request, please email me at <oscartopliss@gmail.com>
-
-
