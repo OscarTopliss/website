@@ -9,7 +9,6 @@ I completed this report as part of my first year **Operating Systems** module:
 Download Report
 {{</button>}}
 
-<img src="./Cat.jpg.webp" />
 It was an analysis of what actually happens when a user enters the following
 into a terminal:
 ```bash
