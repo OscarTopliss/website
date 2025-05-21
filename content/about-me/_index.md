@@ -47,11 +47,11 @@ projects the team was completing at the time.
 
 Whenever I had free time I'd go and speak to members of as many other security
 teams as I could. This both taught me a lot about how different roles and 
-diciplines work together within cyber security, and gave me a lot more 
+disciplines work together within cyber security, and gave me a lot more 
 confidence communicating with new people in a professional environment.
 
 ---
 ### **Tutoring** | _2025_
-In 2025 I tutored A-Level computer science. I hugely enjoy teaching, espeically
+In 2025 I tutored A-Level computer science. I hugely enjoy teaching, especially
 helping my student to develop programmatic thinking skills, and providing context
 on topics the A-Level specifications don't cover.

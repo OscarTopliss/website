@@ -8,9 +8,9 @@ exploitation** (aka "**pwn**") challenges in my free time.
 ---
 ## Architectures
 Most of the reverse engineering challenges have focused on **x86** and
-**x86\_64** executables, usually targetting Linux.
+**x86\_64** executables, usually targeting Linux.
 
-As a result I'm profficient in reading and understanding assembly to
+As a result I'm proficient in reading and understanding assembly to
 understand disassembled x86/64 programs.
 
 ---
@@ -22,7 +22,7 @@ Ninja.
 Most of the projects I've completed have required analysing programs
 originally written in **C**. As a result I've become proficient in analysing
 C-based programs via decompilation and disassembly. I
-have some limited expereince reverse engineering programs written in **C++**.
+have some limited experience reverse engineering programs written in **C++**.
 
 ---
 ## Dynamic Analysis/Debugging

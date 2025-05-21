@@ -12,7 +12,7 @@ View Repository
 
 The coursework focused on **system design**, in particular the selection,
 justification and implementation of **cryptographic mechanisms**. The project
-was built with a \textbf{server-client} model, using two seperate programs.
+was built with a **server-client** model, using two separate programs.
 
 ## System Design
 ### Considerations
@@ -39,7 +39,7 @@ RFC (see [here](https://www.rfc-editor.org/rfc/rfc9106.pdf), page 12).
 My password verification system had a number of security features:
 ##### Dictionary Attack Mitigations
 - Argon2id is both **memory-hard** and **time-hard**. This means that running
-the algorithm to hash a password with Argon2id requires requires either a
+the algorithm to hash a password with Argon2id requires either a
 lot of memory, a lot of time, or both. In my program's case, the parameters
 used to encrypt the password require 2GiB of memory, and encryption takes
 approximately 0.5 seconds.
@@ -47,7 +47,7 @@ approximately 0.5 seconds.
 **brute force**, e.g. hashing every common password in a dictionary (known as a
 "dictionary attack"), is infeasible.
   - Each individual hashing attempt takes too long.
-  - The algorithm's high memory requirements mean that **paralelising** the
+  - The algorithm's high memory requirements mean that **parallelising** the
   process, e.g. running multiple instances to check more hashes at once, is
   expensive and difficult to scale.
 ##### Secret Salt
