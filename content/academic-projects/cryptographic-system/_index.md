@@ -161,6 +161,7 @@ machine**. The state of the user session was stored in a variable called
 - The state could be updated by handling valid user input, and would otherwise
 remain unchanged, leaving the user where they were in the menu if valid input
 wasn't provided.
+
 Below: the `SessionState` enum class from `server.py`
 ```python
 class SessionState(Enum):
@@ -173,6 +174,7 @@ class SessionState(Enum):
         CLIENT_MENU = 7
         LOGIN_SUCCESSFUL = 8
         ADVISOR_MENU = 9
+        ...
 ```
 
 ---
