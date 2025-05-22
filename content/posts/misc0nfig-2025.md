@@ -72,7 +72,7 @@ at the conference, and it was truly lovely to meet so many passionate folks.
 ### Intro/Outro talks
 Most of my "job" for the day was running the second speaker track (with 
 technical assistance from Sam and our external communications officer Artem, as
-I hadn't used the lecture capture systems before and they're built like to 
+I hadn't used the lecture capture systems before and they're built like the 
 controls for a nuclear submarine). At a couple of points this required giving 
 "intro" and "outro" talks for speakers, informing people of who the speaker was,
 and what was on next. 
