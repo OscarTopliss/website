@@ -32,7 +32,7 @@ quite difficult; most custom printing sites didn't have many reviews for
 individual item types. 
 
 After doing that research, and getting final designs for each item (designed
-mostly by Peter and our marketting officer Sam Kamas), I ordered each item and
+mostly by Peter and our marketing officer Sam Kamas), I ordered each item and
 reached out to our sponsors for additional items to add to the goody bags. In
 all, I really enjoyed the logistical aspect of organising misc0nfig 2025.
 
